@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For DJI TELLO
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TELLO	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		KEYWORD2
+speed		KEYWORD2
+emergency	KEYWORD2
+takeoff		KEYWORD2
+land		KEYWORD2
+up			KEYWORD2
+down		KEYWORD2
+forward		KEYWORD2
+backward	KEYWORD2
+left		KEYWORD2
+right		KEYWORD2
+cw			KEYWORD2
+ccw			KEYWORD2
+flip		KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
