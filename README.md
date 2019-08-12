@@ -19,3 +19,5 @@
 การเขียนโค้ดใน foldet src/Ultrasonic.cpp จะเป็นการส่งสัญญาณพัลล์เอง จากตารางการส่งข้อมูลด้านบนจะเห็นได้ว่า จะต้องส่งพัลส์ลอจิก High ความกว้างอย่างน้อย 10 microsecond ออกไปที่ขา TRIG จากนั้นทำการวัดความกว้างของสัญญาณพัลส์ที่สะท้อนกลับมายังจา Echo โดยใช้คำสั่ง pulseIn() ได้เลย จากนั้นนำค่าที่ได้มาคำนวนหาระยะทาง ซึ่งความเร็วเสียงที่อุณหภูมิปกติ () จะได้ประมาณ 340 m/s ดังนั้นจึงสามารถหาระยะทางได้จากสมการ S = Vt  หรือ ระยะทาง = (ระยะเวลาที่วัดได้ / 2) / 29.1 ก็จะได้ระยะทางที่มีหน่วยเป็นเซนติเมตร
 
 ![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/static/src_cpp.JPG)
+
+![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/examples/Get%20Distance/example.JPG)
