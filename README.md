@@ -5,7 +5,7 @@
 
 # หลักการทำงานของ Ultrasonic
 โมดูล HC-SR04  วัดระยะห่างด้วยคลื่นอัลตราโซนิค  (คลื่นเสียงความถี่ประมาณ 40 kHz)  โดยคลื่นที่ส่งออกไปจะเป็นรูปบีม (Beam Angle) หรือคล้าย ๆ กับแสงจากไฟฉายเมื่อเราเปิดในที่มือนั่นเอง
-![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/static/ultrasonic%20range.png)
+![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/static/ultrasonic_range.png)
 ![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/static/ultrasonic%20detecting.png)
 ![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/static/ultrasonic%20range%20finder.png)
 
