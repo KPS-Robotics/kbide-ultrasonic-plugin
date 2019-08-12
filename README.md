@@ -24,4 +24,5 @@
 ![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/static/kidbright_ultrasonic.png)
 
 # ตัวอย่างการต่อบล็อกโปรแกรม
-![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/examples/Get%20Distance/example.JPG)
+
+![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/examples/Get%20Distance/example_kidbright.JPG)
