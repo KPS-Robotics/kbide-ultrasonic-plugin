@@ -1,5 +1,5 @@
 /******************************************************************
- * DJI Tello library for KB-IDE by bavensky (Maker Asia Co., Ltd.)
+ * Ultrasonic HC-SR04 library for KB-IDE by bavensky
  *****************************************************************/
 
 #include "Ultrasonic.h"

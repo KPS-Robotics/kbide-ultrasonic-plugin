@@ -1,1 +1,0 @@
-# Ultrasonic HC-SR04 library for KB-IDE
