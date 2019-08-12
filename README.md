@@ -20,5 +20,8 @@
 
 ![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/static/src_cpp.JPG)
 
+# ตัวอย่างการต่อบวงจรร่วมกับบอร์ด KidBright
+![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/static/kidbright_ultrasonic.png)
+
 # ตัวอย่างการต่อบล็อกโปรแกรม
 ![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/examples/Get%20Distance/example.JPG)
