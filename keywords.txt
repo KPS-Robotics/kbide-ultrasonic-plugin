@@ -1,5 +1,5 @@
 #######################################
-# Syntax Coloring Map For DJI TELLO
+# Syntax Coloring Map For Ultrasonic
 #######################################
 
 #######################################
