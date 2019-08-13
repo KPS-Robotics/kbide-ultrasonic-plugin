@@ -24,5 +24,14 @@
 ![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/static/kidbright_ultrasonic.png)
 
 # ตัวอย่างการต่อบล็อกในโปรแกรม KB-IDE 
+บล็อกตั้งค่าขาใช้งาน จากตัวอย่าง 18 คือ ECHO และ 19 คือ TRIG
+![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/examples/Get%20Distance/ultrasonic_setupBlock.JPG)
 
-![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/examples/Get%20Distance/example_kidbright.JPG)
+บล็อกอ่านข้อมูลจากเซ็นเซอร์ Ultrasonic
+![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/examples/Get%20Distance/ultrasonic_getDataBlock.JPG)
+
+ตัวอย่างบล็อกแสดงผลผ่านทาง Serial monitor
+![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/examples/Get%20Distance/serial_monitor.JPG)
+
+ตัวอย่างบล็อกแสดงผลผ่านทาง Serial graph
+![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/examples/Get%20Distance/serial_graph.JPG)
