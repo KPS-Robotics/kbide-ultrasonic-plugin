@@ -6,7 +6,7 @@ Blockly.JavaScript['ultrasonic_setup'] = function(block) {
   #EXTINC#include <Ultrasonic.h>#END
   #VARIABLEULTRASONIC ultrasonic;#END
   
-  ultrasonic.begin("${value_echo}", "${value_trig}");
+  ultrasonic.begin(${value_echo}, ${value_trig});
   \n
   `;
   return code;
