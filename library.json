@@ -1,9 +1,9 @@
 {
-  "name" : "kbide-plugin-template",
+  "name" : "kbide-ultrasonic-plugin",
   "title": "Ultrasonic",
   "keywords": "ide, esp32, ultrasonic",
   "description": "Ultrasonic plugin for KB-IDE",
-  "git": "https://github.com/bavensky/kbide_plugin_template",
+  "git": "https://github.com/bavensky/kbide-ultrasonic-plugin",
   "author": "bavensky",
   "email": "",
   "url": "http://www.kbide.org",
