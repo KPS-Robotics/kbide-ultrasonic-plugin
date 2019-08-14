@@ -23,7 +23,7 @@ unsigned int ULTRASONIC::read_distance_cm() {
   digitalWrite(TRIG, HIGH);
   delayMicroseconds(10);
   digitalWrite(TRIG, LOW);
-  duration = pulseIn(ECHO, 1, 5000);
+  duration = pulseIn(ECHO, 1, 15000);
   distance = (duration / 2) / 29;
   return distance;
 }
