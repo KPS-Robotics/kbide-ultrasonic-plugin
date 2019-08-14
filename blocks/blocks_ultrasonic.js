@@ -18,7 +18,7 @@ Blockly.Blocks['ultrasonic_read_distance_cm'] = {
   init: function() {
     this.appendDummyInput()
         .appendField("Ultrasonic read distance (cm)");
-    this.setOutput(true, null);
+    this.setOutput(true, "Number");
     this.setColour(120);
     this.setTooltip("");
     this.setHelpUrl("");
