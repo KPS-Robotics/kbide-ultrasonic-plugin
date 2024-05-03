@@ -21,14 +21,15 @@ public:
   ~ULTRASONIC();
 
   void begin(uint8_t _echo, uint8_t _trig);
-  unsigned int read_distance_cm();
+  float read_distance_cm();
 
 
 protected:
 
 private:
   int ECHO, TRIG;
-  long duration = 0, distance = 0;
+
 };
 
 #endif /*ultrasonic_h*/
+
