@@ -35,3 +35,5 @@
 
 ตัวอย่างบล็อกแสดงผลผ่านทาง Serial graph
 ![image](https://raw.githubusercontent.com/bavensky/kbide_plugin_template/master/static/serial_graph.JPG)
+
+แก้ unsigned int8 เป็น float
